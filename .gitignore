@@ -1,0 +1,11 @@
+# ide
+.idea/
+
+# dependencies
+node_modules/
+
+# compiled
+dist/
+
+# logs
+/npm-debug.log
